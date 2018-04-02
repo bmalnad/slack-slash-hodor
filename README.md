@@ -5,7 +5,7 @@ This function demonstrates basic handling of a Slack slash command by responding
 You can ask Hodor anything. 
 
 Slack setup:
-  1. go to https://<your-slack-team>.slack.com/apps
+  1. go to https://your-slack-team.slack.com/apps
   2. search for 'slash commands'
   3. click on the result for 'Slash Commands'
   4. click 'Add Configuration'
