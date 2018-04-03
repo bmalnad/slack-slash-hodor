@@ -2,12 +2,12 @@ AWSTemplateFormatVersion: '2010-09-09'
 Transform: 'AWS::Serverless-2016-10-31'
 Description: Demonstrates basic handling of a Slack slash command by responding to questions from users.
 Resources:
-  slack-slash
+  slackslash:
     Type: 'AWS::Serverless::Function'
     Properties:
       Handler: handler.hodor
       Runtime: nodejs6.10
-      CodeUri: .
+      CodeUri: s3://slack-slash-example-bucket/slack-slash.zip
       Description: >-
         Carry on a meaningful conversation with Hodor.
       MemorySize: 128
