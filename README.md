@@ -4,9 +4,9 @@ This function demonstrates basic handling of a Slack slash command by responding
 
 You can ask Hodor anything. Anything!
 
-AWS Lambda configuration
+AWS Lambda configuration:
 
-After deploying from the AWS Lambda Repository, you will need to configure Slack. Copy the and paste the Token value 
+After deploying from the AWS Serverless Repository, you will need to configure Slack. Copy the and paste the Token value 
 from the Integration Settings to the 'Environment variables' section in the AWS Lambda function configuration screen. 
 There should already be an entry for slacktoken. Click 'Save' and you're all set. 
 
