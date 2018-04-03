@@ -41,7 +41,7 @@ provider:
 
 # you can define service wide environment variables here
   environment:
-    slacktoken: zp6APnva8nP8BwphLyfLpAUP
+    slacktoken: nIs8R8BUI1kH4sW3dAFDMEc5
 
 # you can add packaging information here
 #package:

@@ -16,3 +16,7 @@ Slack setup:
   9. upload hodor.png under 'Customize Icon'
   10. click 'Save Integration'
 
+Useage:
+	/Hodor What time is it?
+
+	
